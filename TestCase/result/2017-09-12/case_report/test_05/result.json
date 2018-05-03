@@ -1,0 +1,34 @@
+{
+    "device": {
+        "start_timestamp": 1505199449.371005, 
+        "start_time": "2017-09-12 14:57:29", 
+        "serial": "", 
+        "display": {
+            "width": 1242, 
+            "height": 2208
+        }
+    }, 
+    "steps": [
+        {
+            "action": "info", 
+            "description": "Test Start", 
+            "success": true, 
+            "time": "5.2"
+        }, 
+        {
+            "confidence": 0.9999994039535522, 
+            "screen_before": "images/before_1505199510620.jpg", 
+            "description": null, 
+            "success": true, 
+            "traceback": null, 
+            "time": 67.6, 
+            "action": "click_image", 
+            "position": {
+                "y": 294, 
+                "x": 70
+            }, 
+            "screen_after": "images/after_1505199511445.jpg", 
+            "target": "images/target_1505199510870.jpg"
+        }
+    ]
+}

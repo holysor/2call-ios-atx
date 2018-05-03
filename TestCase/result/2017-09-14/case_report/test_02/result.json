@@ -1,0 +1,19 @@
+{
+    "device": {
+        "start_timestamp": 1505382587.876304, 
+        "start_time": "2017-09-14 17:49:47", 
+        "serial": "", 
+        "display": {
+            "width": 1242, 
+            "height": 2208
+        }
+    }, 
+    "steps": [
+        {
+            "action": "info", 
+            "description": "Test Start", 
+            "success": true, 
+            "time": "5.2"
+        }
+    ]
+}

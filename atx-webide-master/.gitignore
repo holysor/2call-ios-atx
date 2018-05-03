@@ -1,0 +1,9 @@
+*.pyc
+tests/
+.eggs/
+build/
+dist/
+ChangeLog
+AUTHORS
+*.egg-info/
+.pypirc
